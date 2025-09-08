@@ -1,13 +1,13 @@
 # aycy-mod-archive
-aycy mod archive since he did a little trolling
+aycy mod archive since he nuked his channel
 
-## /!\  i will not take any responsibility if anything goes wrong, these mods are taken from offical sources but are use at own risk and some may be banable
+## ⚠️ i will not take any responsibility if anything goes wrong, these mods are taken from offical sources but are use at own risk and some may be banable
 
-sources for these files:
-hypixel forurms account aycy
-youtube: aycyy
+sources for these files:<br>
+hypixel forurms account aycy<br>
+youtube: aycyy<br>
 
-owner of mods: https://www.youtube.com/c/aycyy
+Owner of mods: https://www.youtube.com/c/aycyy
+(old url https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
 
 
-(note to aycy please dont be mad, i just wana archive ur mods)
