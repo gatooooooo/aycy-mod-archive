@@ -2,6 +2,7 @@
 ### Changes the color of damaged entities
 
 ## Citations 
+- [Hypixel Fourms Post](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/)
 - [Original Youtube Link](https://www.youtube.com/watch?v=ZK1C8iThJAA)
 - [Original MediaFire Link](https://www.mediafire.com/file/j6tz2l5fueooj66/Damage_Tint_2.0.jar/file)
 
