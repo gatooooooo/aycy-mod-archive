@@ -13,3 +13,7 @@
 ### Metadata
 - Latest known version: v4.0.3
 - SHA256: todo
+
+
+### Other Intresting stuff
+- [A Hypixel Fourms thread with a supposed v3](https://hypixel.net/threads/block-outline.1814170/post-13926479)
